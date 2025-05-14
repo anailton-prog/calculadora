@@ -2,7 +2,6 @@ body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
     background-image: url('https://www.hdwallpapers.in/download/vincent_van_gogh_starry_sky_hd_vincent_van_gogh_style-2560x1440.jpg');
-    background-color: #050f47fe;
     background-size: 80vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,13 +37,21 @@ body {
   }
 
   div p{
-    color: #0e0606;
+    color: #ffffff;
     text-align: center;
   }
 
   div ul{
     text-align: center;
+    margin-top: 50px;
   }
+
+  div{
+    margin-top: 130px;
+  }
+
+  
+  
 
  
   
